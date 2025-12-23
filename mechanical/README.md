@@ -1,7 +1,7 @@
 # 3D Printed Parts – Technical Notes
 
 ## Design & CAD
-All parts were designed using :CATIA V5.
+All parts were designed using: CATIA V5.
 The models were created with proper constraints, verified assemblies, and clean geometries.
 
 ## Tolerances & Testing
@@ -26,4 +26,5 @@ This is normal and expected, as tolerances can vary slightly from one printer to
 ---
 
 Designed, tested, and prepared with real-world printing constraints in mind.
+
 
