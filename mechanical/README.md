@@ -1,12 +1,12 @@
 # 3D Printed Parts – Technical Notes
 
 ## Design & CAD
-All parts were designed using :contentReference[oaicite:0]{index=0}.
+All parts were designed using :CATIA V5.
 The models were created with proper constraints, verified assemblies, and clean geometries.
 
 ## Tolerances & Testing
 - The parts have been **tested and adjusted with tolerances** suitable for FDM 3D printing.
-- They were specifically validated for printing on an **:contentReference[oaicite:1]{index=1}**.
+- They were specifically validated for printing on an **:Ender 3 V3 SE**.
 - Fit and assembly were checked after printing.
 
 ## Printing Disclaimer
@@ -26,3 +26,4 @@ This is normal and expected, as tolerances can vary slightly from one printer to
 ---
 
 Designed, tested, and prepared with real-world printing constraints in mind.
+
