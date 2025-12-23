@@ -32,9 +32,13 @@ The board is powered by a **3.3 V battery**, which is **boosted to 5 V** for the
 
 ## PCB Views
 
-### 2D View
+### 2D View                               
 ![PCB 2D View](./images/pcb_2d.png)
 
-### 3D View
-![PCB 3D View](./images/pcb_3d.png)
+### 3D Top View
+![PCB 3D View](./images/pcb_3d_1.png)
+
+### 3D Bottom View
+![PCB 3D View](./images/pcb_3d_2.png)
+
 
