@@ -18,6 +18,18 @@ Depending on:
 **minor sanding may be required** to achieve a perfect fit.  
 This is normal and expected, as tolerances can vary slightly from one printer to another.
 
+
+## Illustration
+
+<p align="center">
+  <img src="./images/parts_overview.png" width="45%" />
+  <img src="./images/pokeball_open_close.gif" width="45%" />
+</p>
+
+<p align="center">
+  <em>Static overview of the printed parts (left) — Functional open/close mechanism animation (right)</em>
+</p>
+
 ## Recommendations
 - Ensure your printer is well-calibrated (steps/mm, flow rate).
 - Use standard PLA or PETG profiles as a baseline.
@@ -26,6 +38,7 @@ This is normal and expected, as tolerances can vary slightly from one printer to
 ---
 
 Designed, tested, and prepared with real-world printing constraints in mind.
+
 
 
 
