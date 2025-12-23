@@ -6,7 +6,7 @@ The models were created with proper constraints, verified assemblies, and clean 
 
 ## Tolerances & Testing
 - The parts have been **tested and adjusted with tolerances** suitable for FDM 3D printing.
-- They were specifically validated for printing on an **:Ender 3 V3 SE**.
+- They were specifically validated for printing on an**: Ender 3 V3 SE**.
 - Fit and assembly were checked after printing.
 
 ## Printing Disclaimer
@@ -26,5 +26,6 @@ This is normal and expected, as tolerances can vary slightly from one printer to
 ---
 
 Designed, tested, and prepared with real-world printing constraints in mind.
+
 
 
