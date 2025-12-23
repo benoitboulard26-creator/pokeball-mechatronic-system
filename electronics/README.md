@@ -1,11 +1,11 @@
 # PCB – Design & Manufacturing Notes
 
 ## PCB Design
-The PCB was designed using :EasyEDA[oaicite:0]{index=0}.
+The PCB was designed using :EasyEDA.
 The schematic and layout were fully completed, verified, and prepared for manufacturing.
 
 ## Manufacturing
-The PCB was ordered and manufactured by :JLCPCB[oaicite:1]{index=1}.
+The PCB was ordered and manufactured by :JLCPCB.
 
 ## Folder Structure
 This directory contains the following subfolders:
@@ -18,7 +18,7 @@ This directory contains the following subfolders:
 ## PCB Overview
 The board is powered by a **3.3 V battery**, which is **boosted to 5 V** for the required components.
 - Battery charging is handled through a **USB-C port**
-- An **:ATtiny85[oaicite:2]{index=2}** is used as the main controller
+- An **:ATtiny85** is used as the main controller
 - A **servo motor** is controlled to open and close the Pokéball
 - The action is triggered by a **push button**
 
@@ -37,3 +37,4 @@ The board is powered by a **3.3 V battery**, which is **boosted to 5 V** for the
 
 ### 3D View
 ![PCB 3D View](./images/pcb_3d.png)
+
